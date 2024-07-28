@@ -1,9 +1,17 @@
-# r3f-animated-book-slider-starter
+Site is live now at https://G3ART.vercel.app
 
-![YouTube Thumbnail](https://github.com/user-attachments/assets/c6b6ea2e-2643-4d53-89b7-ee5b848de06d)
 
-[Video tutorial](https://youtu.be/b7a_Y1Ja6js)
+npm install 
 
-[Live demo](https://r3f-animated-book-slider-final.vercel.app/)
+npm run dev
+Make sure you have the correct extensions downloaded
 
-[Final code](https://github.com/wass08/r3f-animated-book-slider-final)
+git pushing 
+
+git --set-upstream
+
+git add . 
+
+git commit -m "xyz"
+
+git push
